@@ -63,3 +63,6 @@ alter table student rename to mystudent;
 
 ### OUTPUT:
 ![image](https://github.com/Prasannalakshmiganesan/F2_DBMS/assets/118610231/53ea4f2d-ba7e-489b-8c95-96f689efa45a)
+
+## RESULT:
+A student database is created and DDL queries using SQL is executed successfully.
